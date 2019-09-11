@@ -1,0 +1,45 @@
+.header {background-color: #000080; height: 10vh}
+.leftcol {background-color: #dddddd; height: 80vh; width: 20%; float: left;}
+.content {background-color: #dddddd; height: 80vh; width: 60%;float: left;}
+.rightcol {background-color: #dddddd; height: 80vh; width: 20%;float: right;}
+.footer {background-color: #000080; height: 10vh; clear: both} 
+
+ul{list-style-type: none; margin: 0; padding: 0; background-color: #000080;}
+li a {color:#dddddd; padding: 8px 16px;text-decoration: none; display: block; font-family:'Chilanka',cursive;}
+
+li a:hover{background-color: #bb4c4c;}
+
+
+
+
+header {
+  background-color: #000080;
+  color: #000;
+  text-align: center;
+  padding: 25px 0px;
+
+}
+
+main {
+  background-color: #e4e4e4;
+  width: 600px;
+  padding: 25px;
+  border: solid 5px red;
+  margin: 100px auto;
+}
+
+footer{
+  background-color: aquamarine;
+  width: 600px;
+  padding: 25px;
+  border: solid 5px red;
+
+}
+
+
+
+
+
+
+
+
